@@ -1,0 +1,57 @@
+body{
+	background-image: url("black.png");
+	font-family: arial ;
+}
+#tarolo{
+		width: 90%;
+		margin: auto;
+		max-width: 900px;
+
+}
+#tartalom{
+	background-color: #ebebeb;
+	margin: 0px;
+	padding:10px;
+	font-size:15px;
+	text-align: justify;
+}
+h1{
+	font-size:20px;
+}
+#fejlec{
+	background-image: url("game.jpg");
+	height: 300px;
+	margin: auto;
+	width: 100%;
+	
+}
+#lablec{
+	background-color: orange;
+	text-align: center;
+	font-size:12px
+}
+	
+.jobb{
+	float: right;
+	width: 200px;
+	height: 300px;
+	margin: 10px
+}
+.torles{
+	clear: both;
+}
+#menu a:hover{
+	background-color:orange;
+}
+#menu {
+	background-color: grey;
+	height: 30px
+}
+#menu a{
+	border: 1px solid white;
+	padding: 5px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+	
